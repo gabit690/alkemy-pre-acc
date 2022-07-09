@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DisneyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DisneyApplication.class, args);
-	}
 
+		SpringApplication.run(DisneyApplication.class, args);
+
+	}
 }
